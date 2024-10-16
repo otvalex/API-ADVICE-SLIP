@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(100, 95, 95);
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    align-tracks: center;
+}
+
+nav{
+    margin-top: 5%;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+    text-shadow: black 1px 1px;
+}
+
+h2{
+    margin-top: 10%;
+    font-size: 25px;
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
